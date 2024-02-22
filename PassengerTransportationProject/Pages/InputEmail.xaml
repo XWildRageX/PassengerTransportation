@@ -10,7 +10,7 @@
 
     <Grid>
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
-            <TextBlock Text="Введите вашу почту для ответа разработчика"></TextBlock>
+            <TextBlock Text="Введите вашу mail.ru почту для ответа разработчика"></TextBlock>
             <TextBox x:Name="InputType" Width="220" Margin="10"></TextBox>
             <Button x:Name="InputButton" Width="100" Click="InputButton_Click">Далее</Button>
         </StackPanel>

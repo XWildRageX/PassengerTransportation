@@ -13,10 +13,10 @@ namespace PassengerTransportationProject.Model
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class PassengerTransportationEntities2 : DbContext
+    public partial class PassengerTransportationEntities3 : DbContext
     {
-        public PassengerTransportationEntities2()
-            : base("name=PassengerTransportationEntities2")
+        public PassengerTransportationEntities3()
+            : base("name=PassengerTransportationEntities3")
         {
         }
     
