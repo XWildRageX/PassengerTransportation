@@ -34,7 +34,6 @@ namespace PassengerTransportationProject.Model
         public virtual DbSet<Route> Route { get; set; }
         public virtual DbSet<StationDeparture> StationDeparture { get; set; }
         public virtual DbSet<StationTarget> StationTarget { get; set; }
-        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
         public virtual DbSet<Task> Task { get; set; }
         public virtual DbSet<Transporter> Transporter { get; set; }
     }

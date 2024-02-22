@@ -84,16 +84,6 @@
     <Property Name="StationID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="NameTargetStation" Type="nvarchar" MaxLength="100" />
   </EntityType>
-  <EntityType Name="sysdiagrams">
-    <Key>
-      <PropertyRef Name="diagram_id" />
-    </Key>
-    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
-    <Property Name="principal_id" Type="int" Nullable="false" />
-    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="version" Type="int" />
-    <Property Name="definition" Type="varbinary(max)" />
-  </EntityType>
   <EntityType Name="Task">
     <Key>
       <PropertyRef Name="TaskID" />
@@ -232,7 +222,6 @@
     <EntitySet Name="Route" EntityType="Self.Route" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="StationDeparture" EntityType="Self.StationDeparture" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="StationTarget" EntityType="Self.StationTarget" Schema="dbo" store:Type="Tables" />
-    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Task" EntityType="Self.Task" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Transporter" EntityType="Self.Transporter" Schema="dbo" store:Type="Tables" />
     <AssociationSet Name="FK__Employee__Positi__49C3F6B7" Association="Self.FK__Employee__Positi__49C3F6B7">

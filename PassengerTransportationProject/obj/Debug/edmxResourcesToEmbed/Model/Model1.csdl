@@ -100,16 +100,6 @@
     <Property Name="NameTargetStation" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
     <NavigationProperty Name="Route" Relationship="Self.FK__Route__StationTa__5070F446" FromRole="StationTarget" ToRole="Route" />
   </EntityType>
-  <EntityType Name="sysdiagrams">
-    <Key>
-      <PropertyRef Name="diagram_id" />
-    </Key>
-    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="principal_id" Type="Int32" Nullable="false" />
-    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-    <Property Name="version" Type="Int32" />
-    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
-  </EntityType>
   <EntityType Name="Task">
     <Key>
       <PropertyRef Name="TaskID" />
@@ -250,7 +240,6 @@
     <EntitySet Name="Route" EntityType="Self.Route" />
     <EntitySet Name="StationDeparture" EntityType="Self.StationDeparture" />
     <EntitySet Name="StationTarget" EntityType="Self.StationTarget" />
-    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
     <EntitySet Name="Task" EntityType="Self.Task" />
     <EntitySet Name="Transporter" EntityType="Self.Transporter" />
     <AssociationSet Name="FK__Employee__Positi__49C3F6B7" Association="Self.FK__Employee__Positi__49C3F6B7">

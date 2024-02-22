@@ -172,9 +172,6 @@
     <Compile Include="Model\StationTarget.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="Model\sysdiagrams.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
     <Compile Include="Model\Task.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>

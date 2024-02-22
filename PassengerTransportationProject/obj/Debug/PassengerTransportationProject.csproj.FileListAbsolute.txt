@@ -313,57 +313,57 @@ C:\Users\Gigаbyte\Desktop\PassengerTransportation-master\PassengerTransportatio
 C:\Users\Gigаbyte\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\GemBox.Email.xml
 C:\Users\Gigаbyte\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Pkcs11Interop.xml
 C:\Users\Gigаbyte\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\System.Buffers.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\PassengerTransportationProject.exe.config
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\PassengerTransportationProject.exe
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\PassengerTransportationProject.pdb
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\BouncyCastle.Cryptography.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\EntityFramework.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\GemBox.Email.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignColors.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignThemes.Wpf.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Pkcs11Interop.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\System.Buffers.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Xceed.Document.NET.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Xceed.Words.NET.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\BouncyCastle.Cryptography.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\EntityFramework.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\GemBox.Email.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignColors.pdb
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignThemes.Wpf.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Pkcs11Interop.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\System.Buffers.xml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\ru\EntityFramework.resources.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.csproj.AssemblyReference.cache
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\BuyingTicketsPage.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\InputEmail.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\MyProfilePage.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\MyTicketsPage.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\RoutesPage.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Windows\MainWindow.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\AuthtorizationPage.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\App.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject_Content.g.cs
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject_MarkupCompile.cache
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject_MarkupCompile.lref
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\App.baml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\BuyingTicketsPage.baml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\InputEmail.baml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\MyProfilePage.baml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\MyTicketsPage.baml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\RoutesPage.baml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Windows\MainWindow.baml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\AuthtorizationPage.baml
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.g.resources
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.Properties.Resources.resources
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.csproj.GenerateResource.cache
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.csproj.CoreCompileInputs.cache
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.csproj.CopyComplete
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.exe
-C:\Users\admin\Desktop\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.pdb
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\PassengerTransportationProject.exe.config
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\PassengerTransportationProject.exe
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\PassengerTransportationProject.pdb
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\EntityFramework.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\GemBox.Email.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignColors.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Pkcs11Interop.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\System.Buffers.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Xceed.Document.NET.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Xceed.Words.NET.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\EntityFramework.xml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\GemBox.Email.xml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignColors.pdb
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\Pkcs11Interop.xml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\System.Buffers.xml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.csproj.AssemblyReference.cache
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\BuyingTicketsPage.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\InputEmail.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\MyProfilePage.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\MyTicketsPage.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\RoutesPage.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\AuthtorizationPage.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\App.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject_Content.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject_MarkupCompile.cache
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject_MarkupCompile.lref
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\App.baml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\BuyingTicketsPage.baml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\InputEmail.baml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\MyProfilePage.baml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\MyTicketsPage.baml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\RoutesPage.baml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Windows\MainWindow.baml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\Pages\AuthtorizationPage.baml
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.g.resources
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.Properties.Resources.resources
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.csproj.GenerateResource.cache
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.csproj.CoreCompileInputs.cache
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.csproj.CopyComplete
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.exe
+C:\Users\mamok\OneDrive\Рабочий стол\PassengerTransportation-master\PassengerTransportationProject\obj\Debug\PassengerTransportationProject.pdb
